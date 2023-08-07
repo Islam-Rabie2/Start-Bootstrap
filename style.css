@@ -116,7 +116,7 @@
      align-items: center;
      color: white;
      background-size: cover;
-     background-image: url(image4.jpg);
+     background-image: url(/imgs/image4.jpg);
      background-attachment: fixed;
      background-blend-mode: overlay;
      background-color: rgba(0, 0, 0, .2);
