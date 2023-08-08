@@ -350,9 +350,15 @@
      .course p {
          font-size: 10px;
      }
-
+ .contact .input-text label{
+        font-size: 10px;
+     }
  }
-
+@media (max-width: 485px){
+    .contact .input-text label{
+        font-size: 8px;
+     }
+ }
 
 
  .about {
